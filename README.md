@@ -1,7 +1,7 @@
 # 💫 About Me:
 
  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;bug+bounty+hunter;ethical+hacker;Red+Teamer%2C+CTF+Player;%40_MR.ShadowMan" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Bug+Bounty+Hunter;Ethical+Hacker;Red+Teamer%2C+CTF+Player;%40_MR.ShadowMan" alt="Typing SVG" /></a>
 </p>
 
 ## 🌐 Socials:
