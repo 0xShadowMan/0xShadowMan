@@ -40,7 +40,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MR-ShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=MR-ShadowMan&theme=ambient_gradient&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MR-ShadowMan&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
