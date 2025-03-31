@@ -3,7 +3,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xMRShadowMan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MR.ShadowMans) 
 
  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Bug+Bounty+Hunter;Ethical+Hacker;Red+Teamer%2C+CTF+Player;%40_MR.ShadowMan" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Bug+Bounty+Hunter;Ethical+Hacker;Red+Teamer%2C+CTF+Player;%MR.ShadowMan" alt="Typing SVG" /></a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MR-ShadowMan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -39,7 +39,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MR-ShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MR-ShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=MR-ShadowMan&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
