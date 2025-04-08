@@ -6,15 +6,15 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Bug+Bounty+Hunter;Ethical+Hacker;Red+Teamer%2C+CTF+Player;MR.ShadowMan" alt="Typing SVG" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MR-ShadowMan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xShadowMan&theme=juicyfresh" alt="0xShadowMan" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-ShadowMan&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="@MR-ShadowMan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xShadowMan&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="@0xShadowMan" /> </p>
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 - 👋 Hi, I’m @MR.ShadowMan
 - 👀 I’m interested in Bug Bounty and Red Teaming
-- 💞️ I’m looking to collaborate on some project & Tool development
+- 💞️ I’m looking to collaborate on some projects & Tool development
 - 😋 Discord ID : <a href="https://discord.com/users/1309855980745523203" target="_blank">MR.ShadowMan</a>
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
@@ -39,9 +39,9 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MR-ShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=MR-ShadowMan&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=0xShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=0xShadowMan&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xShadowMan&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
@@ -52,7 +52,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MR-ShadowMan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=0xShadowMan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
