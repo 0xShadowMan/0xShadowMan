@@ -34,7 +34,7 @@
 
 #  👨‍💻 Profiles
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MR.ShadowMan.png" alt="Your Image Badge" />
+ src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3272447" style='border:none;'
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
