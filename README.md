@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It's Me MR.ShadowMan</h1>
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xMRShadowMan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MR.ShadowMans) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xMRShadowMan) 
 
  <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Bug+Bounty+Hunter;Ethical+Hacker;Red+Teamer%2C+CTF+Player;MR.ShadowMan" alt="Typing SVG" /></a>
@@ -45,11 +45,6 @@
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=0xShadowMan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
