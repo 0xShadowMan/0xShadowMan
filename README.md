@@ -28,17 +28,21 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 #  👨‍💻 Profiles
-
+[<img src="https://tryhackme-badges.s3.amazonaws.com/MR.ShadowMan.png" alt="TryHackMe Badge">](https://tryhackme.com/p/MR.ShadowMan)
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=0xShadowMan&theme=ambient_gradient&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xShadowMan&theme=gruvbox&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xShadowMan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -47,7 +51,8 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xShadowMan&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=0xShadowMan&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
