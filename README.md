@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xMRShadowMan" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="MrNiko" height="30" width="40" /></a>
-<a href="https://discord.com/users/1309855980745523203" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
+<a href="https://discord.com/users/0xshadowman" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
