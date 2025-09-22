@@ -13,17 +13,23 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 - 👋 Hi, I’m @MR.ShadowMan
-- 👀 I’m interested in Bug Bounty and Red Teaming
+- 🔐 Passionate about **Application Security (AppSec)** and **Red Team**  
+- 🐱‍💻 Exploring **TryHackMe, HackTheBox, and CTF** challenges  
+- 🐍 Learning **Python** to build security automation tools  
+- 🌱 Interested in **Bug Bounty Hunting** and **AppSec**  
 - 💞️ I’m looking to collaborate on some projects & Tool development
 - ✨ Discord ID : <a href="https://discord.com/users/1309855980745523203" target="_blank">MR.ShadowMan</a>
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xMRShadowMan" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="MrNiko" height="30" width="40" /></a>
-<a href="https://discord.com/users/0xshadowman" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" alt="https://discord.com/invite/N52JqGb" height="30" width="40" /></a>
+# Connect with me
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/0xshadowman) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/0xshadowman) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xshadowman) 
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/0xshadowman)
+
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
@@ -43,18 +49,14 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xShadowMan&theme=gruvbox&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xShadowMan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://nirzak-streak-stats.vercel.app/?user=0xShadowMan&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xShadowMan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xShadowMan&limit5=&theme=radical&combine_all_yearly_contributions=true)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-contributor-stats.vercel.app/api?username=0xShadowMan&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
