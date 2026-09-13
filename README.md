@@ -59,6 +59,8 @@
 
 <p><a href="https://github.com/stats-organization/github-stats-extended" target="blank"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xShadowMan&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
