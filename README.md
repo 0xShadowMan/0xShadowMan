@@ -6,7 +6,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true?font=Roboto+Mono&pause=500&color=F19A04&random=false&width=435&lines=Thanks+For+Stopping+By!;Bug+Bounty+Hunter;Ethical+Hacker;Red+Teamer%2C+CTF+Player;MR.ShadowMan" alt="Typing SVG" /></a>
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=0xShadowMan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-repo.vercel.app/?username=0xShadowMan&column=8&margin-w=25&margin-h=25&theme=dracula" alt="GitHub Trophies" /></a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xShadowMan&label=Profile%20views&color=0e75b6&style=for-the-badge&logoColor=ffffff&labelColor=1a1a1a&color=802000" alt="@0xShadowMan" /> </p>
 
@@ -49,18 +51,13 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=0xShadowMan&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xShadowMan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=0xShadowMan&theme=tokyonight)
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
+# 💻Top Languages
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xShadowMan&limit=5&theme=react&combine_all_yearly_contributions=true)
-
-
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
-
+<p><a href="https://github.com/stats-organization/github-stats-extended" target="blank"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xShadowMan&layout=compact&langs_count=10&theme=dracula&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
