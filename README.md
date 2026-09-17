@@ -51,7 +51,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com?user=0xShadowMan&theme=tokyonight)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xShadowMan&theme=catppuccin-macchiato" alt="GitHub Streak" /></a>
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
