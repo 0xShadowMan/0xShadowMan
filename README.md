@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi 👋, It's Me MR.ShadowMan</h1>
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xMRShadowMan) 
@@ -67,4 +69,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
